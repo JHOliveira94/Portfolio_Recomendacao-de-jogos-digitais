@@ -1,5 +1,5 @@
 # Projeto de Portfólio
-Em andamento. <br>
+**Em andamento.** <br>
 Em breve, novidades.
 
 # Sobre o projeto
@@ -28,13 +28,12 @@ As perguntas estão agrupadas em prol da organização geral do estudo.
 
 Abaixo, está a relação de tópicos abordados:
 
-> Análise das vendas globais por gênero e plataforma
-Distribuição geográfica das vendas
-Tendências temporais de lançamento e vendas
-Impacto da publisher nas vendas
-Comparação de sucesso entre plataformas
-Previsão de vendas globais de jogos
-Recomendação de gêneros populares por região
-> 
+> Análise das vendas globais por gênero e plataforma <br>
+> Distribuição geográfica das vendas <br>
+> Tendências temporais de lançamento e vendas <br>
+> Impacto da publisher nas vendas <br>
+> Comparação de sucesso entre plataformas <br>
+> Previsão de vendas globais de jogos <br>
+> Recomendação de gêneros populares por região <br>
 
-As perguntas detalhadas estão no notebook disponível no GitHub.
+As perguntas detalhadas estão no arquivo **notebook_vendas_games.ipynb**
